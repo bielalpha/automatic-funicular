@@ -145,7 +145,7 @@ Faça uma solicitação POST para `/api/comment/createComment/:id` com o paramet
 
 - `content` (string): O conteúdo do post.
 - `author` (string): O Autor do post.
-- 
+  
 Exemplo do formato do json:
 
 ```json
