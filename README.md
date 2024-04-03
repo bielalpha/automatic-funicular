@@ -143,7 +143,6 @@ Retorno esperado:
 #### Como usar:
 Faça uma solicitação POST para `/api/comment/createComment/:id` com o parametro `:id` do `post` desejado é possivel criar um ou mais comentarios.
 
-- `title` (string): O título do post.
 - `content` (string): O conteúdo do post.
 - `author` (string): O Autor do post.
 - 
